@@ -19,3 +19,7 @@ tail -n 10 /etc/passwd
 #!/bin/bash
 head -n 10 /etc/passwd
 #Display the first 10 lines of /etc/passwd
+
+#!/bin/bash
+awk 'NR==3' iacta
+#displays the third line of the file iacta.
