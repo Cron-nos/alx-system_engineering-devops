@@ -2,6 +2,11 @@
 echo  -E "Hello, World.\n"
 #script that prints “Hello, World”, followed by a new line to the standard output.
 
+#!/bin/bash
+echo -e "\xF0\x9F\x98\x95"
+#displays a confused smiley "(Ôo)'.
+
+
 #!/bin bash
 cat /etc/passwd
 #Display the content of the /etc/passwd file
