@@ -1,3 +1,7 @@
+#!/bin/bash
+echo  -E "Hello, World.\n"
+#script that prints “Hello, World”, followed by a new line to the standard output.
+
 #!/bin bash
 cat /etc/passwd
 #Display the content of the /etc/passwd file
