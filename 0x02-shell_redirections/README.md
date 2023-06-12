@@ -4,5 +4,5 @@ cat /etc/passwd
 
 
 #!/bin bash
-tail -n 4 /etc/passwd
+tail -n 10 /etc/passwd
 #Display the last 10 lines of /etc/passwd
