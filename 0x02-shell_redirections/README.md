@@ -23,3 +23,8 @@ head -n 10 /etc/passwd
 #!/bin/bash
 awk 'NR==3' iacta
 #displays the third line of the file iacta.
+
+#!/bin/bash
+echo "Best School \n" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:\)
+#creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:\)
+ containing the text Best School ending by a new line.
